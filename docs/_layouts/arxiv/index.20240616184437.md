@@ -1,0 +1,410 @@
+<!DOCTYPE HTML>
+<!--
+	Story by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	
+	#FF5F5F
+	#574240
+	#BFA5A3
+	#79A314
+-->
+<html>
+	<head>
+		<title>Evolutionary Health Group</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+
+				<!-- One -->
+					<section class="banner style1 orient-left content-align-left image-position-center fullscreen onload-content-fade-right">
+						<div class="content" style="text-align: justify;">
+							<h1>Evolutionary <br> Health Group</h1>
+							<p class="major">
+								Welcome to the Evolutionary Health Group of the
+								<a target="_blank" rel="noopener noreferrer" href="https://sph.cuny.edu/">City University of New York Graduate School of Public Health and Health Policy</a>
+								and the
+								<a target="_blank" rel="noopener noreferrer" href="https://www.ncbi.nlm.nih.gov/">National Center for Biotechnology Information</a>.
+								Employing diverse computational approaches, we seek to uncover and explain deeply conserved mechanisms of host adaptation for pathogens ranging from bacteriophages to cancer cells to...words?
+							</p>
+							<ul class="actions stacked">
+								<li><a href="#first" class="button big wide smooth-scroll-middle">our research</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/lab_logo.gif" alt="" />
+						</div>
+					</section>
+
+				<!-- Two -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-content-fade-left" id="first">
+						<div class="content" style="text-align: justify;">
+							<h2>Selfish Elements</h2>
+							<p>
+								The term <i>parasite</i> typically refers to an organism
+								participating in a sustained inter-species relationship (symbiosis) in which this organism
+								benefits at the cost of another. Parasites engaging in extremely asymmetric relationships
+								are often bestowed the higher title of <i>pathogen</i>.
+							</p>
+							<p>
+								This asymmetry makes pathogens <i>selfish</i>, often so selfish that hosts are under
+								strong evolutionary pressure to evolve defenses against the pathogen or risk
+								population collapse. In response, the pathogen evolves to evade these new host defenses,
+								giving rise to a conflict which rapidly generates genomic novelty and reveals
+								the rules governing a stable ecology.
+							</p>
+							<p>
+								We endeavor to learn these rules for diverse pathogens ranging from large multicellular
+								eukaryotes down to the smallest RNA viruses and establish conserved features. Relaxing
+								our definition of organism, we may zoom in even further to consider this same conflict
+								playing out within an individual genome among selfish genetic elements living in
+								the blurry boundary of life. In turn, we believe we can begin to better understand
+								the propagation of selfish elements in the complex nonliving systems that
+								compose our public health infrastructure, from social media to government policy.
+							</p>
+						</div>
+						<div class="image">
+							<img src="images/host_path_cartoon.gif" alt="" />
+						</div>
+					</section>
+
+				<!-- Three -->
+					<section class="spotlight style2 orient-left content-align-left image-position-center onscroll-content-fade-right">
+						<div class="content" style="text-align: justify;">
+							<h2>Comparative Genomics</h2>
+							<p>
+								The growth in the number of nucleotides in publicly available genome repositories beats Moore's Law.
+								Together, advances in computer engineering and next-generation sequencing technologies
+								enable computational groups like ours to study a vast diversity of organisms.
+							</p>
+							<p>
+								We have a special interest in viruses, and RNA viruses in particular. Almost all "priority pathogens"
+								with recognized pandemic potential are viruses and the majority of zoonotic mammalian viruses are RNA viruses.
+								Viruses evolve <i>fast</i> providing the opportunity to correlate genomic variation to environmental
+								change as it happens in real time.
+							</p>
+							<p>
+								A typical workflow involves aligning homologous sequences, inferring phylogeny, and estimating
+								ancestral reconstructions to establish mutations. We focus on understanding the biology
+								rather than software development but we build our own tools as necessary.
+							</p>
+						</div>
+						<div class="image">
+							<img src="images/compare_virus.gif" alt="" />
+						</div>
+					</section>
+
+				<!-- Four -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-content-fade-left">
+						<div class="content" style="text-align: justify;">
+							<h2>Mathematical Modelling</h2>
+							<p>
+								The other key element of our work is the construction of mathematical models to explain and hopefully predict
+								evolutionary dynamics. Evolution is inherently random and yet while the combinatorial space of all possible
+								sequences long enough to make even the smallest genomes is incomprehensibly vast, under the same selective
+								pressures, the same mutations are observed to repeatedly emerge.
+							</p>
+							<p>
+								One area of particular interest is epidemic modelling. In this direction, we evaluate the predicted effects of
+								public health intervention, including the long term impact of intervention on pathogen evolution. This most
+								often begins with a system of ordinary differential equations (curves: 
+								<b>
+								<span style="color:#BFA5A3;">S</span>
+								<span style="color:#574240;">E</span>
+								<span style="color:#FF5F5F;">I</span>
+								<span style="color:#79A314;">R</span>
+								</b>
+								model) and reassessed if complex spatial or stochastic effects are substantial over the timescale of interest.
+							</p>
+							<p>
+								We are <i>very applied</i> mathematicians and are not experts in a particular discipline but instead seek
+								to learn new techniques best suited to our biological interests. We often employ
+								large scale simulations relying on straightforward numerical methods, but are always excited
+								to apply new analytical approaches.
+							</p>
+						</div>
+						<div class="image">
+							<img src="images/seir.gif" alt="" />
+						</div>
+					</section>
+					
+				<!-- Five -->
+					<section class="wrapper style1">
+						<div class="inner">
+							<header>
+								<h2>Ongoing Projects</h2>
+							</header>
+							<div class="content" style="text-align: justify;">
+								<dl>
+									<dt style="color: #BFA5A3">
+									<i class="icon solid style1 fa-bacteria"></i>
+									In the face of a phage, how optimistic should a bacterium be?</dt>
+										<dd>
+											<p>
+											Bacteria maintain diverse immune machinery to protect against phage infection.
+											If that fails, an infected individual may undergo programmed cell death (PCD), an altruistic
+											behavior, reducing the probability that the infection will spread within the
+											community. Building on our
+											<a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1101/2023.11.21.568103">prior work</a>
+											focusing on understanding the features which govern the optimal strategy for somatic damage mitigation,
+											we seek to understand how bacteria decide when to take one for the team.
+											</p>
+										</dd>
+										<dt style="color: #FF5F5F">
+										<i class="icon solid style1 fa-dna"></i>
+										How do you decide if two proteins are "the same"?</dt>
+										<dd>
+											<p>
+											Modern sequence alignment tools can establish homology among highly divergent proteins.
+											The resulting deep alignments may then be organized into clusters given an appropriate
+											metric over the sequence space. Percent identity with respect to a reference is
+											often used to designate just two clusters - "the same" and "different". What percent
+											identity threshold represents functional divergence, however, varies based on the
+											genomic and ecological context. Using information theory, we are building a pipeline
+											to segment deep alignments into groups that constitute the most efficient (in bits)
+											representation of the underlying sequence space. It is our hope that this threshold-free
+											approach is able to reproduce manually curated designations of evolutionary divergence
+											as well as predict new functional groups.
+											</p>
+										</dd>
+										<dt style="color: #574240">
+										<i class="icon solid style1 fa-paw"></i>
+										Should we be paying more attention to non-human cancer?</dt>
+										<dd>
+											<p>
+											Addressing tumor evolution remains a major challenge for cancer treatment.
+											Despite the availability of thousands of human cancer genomes through
+											programs including TCGA and COSMIC, substantial patient heterogeneity
+											makes predictions of individual responses to treatment noisy. Interactions between
+											tumor mutations and germline variations remain poorly explored and even well
+											characterized driver genes likely play additional, unknown roles in the process of metastasis.
+											Cancer is also frequently observed in diverse non-human animals from clams to clydesdales
+											but tumors from most species are rarely sequenced. This data could dramatically improve
+											our understanding of the interactions between germline variations in driver genes
+											present in other species and tumor mutations which, motivated by our
+											<a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1038/s42003-020-01276-7">prior work</a>,
+											we expect to overlap with the landscape of human tumors even for distant relatives.
+											We are building a database to collect publicly available tumor genomes across species
+											and hope to identify several organisms for which the observed cancer incidence is high
+											and the germline variations in driver genes will be informative for human health.
+											</p>
+										</dd>
+										<dt style="color: #79A314">
+										<i class="icon solid style1 fa-comment-medical"></i>
+										How do generative text responses differ from expert answers to clinical queries?</dt>
+										<dd>
+											<p>
+											Generative text algorithms trained using much of the internet provide a mechanism
+											to access technical information that can reduce the barrier to entry for non-experts.
+											Clinical queries are of particular interest as effective generative responses may
+											improve access to healthcare and reduce health disparities but ineffective responses
+											may promote confusion and mistrust in the healthcare system. We are collecting an
+											ensemble of questions and answers from the CDC and the NIH and posing these questions
+											as prompts to popular generative text programs. Conserved differences in the structure
+											of these answers will reveal limitations in generative text algorithms which may motivate
+											new safeguards. Conversely, the generative responses may demonstrate useful features
+											which may be incorporated into public health messaging.
+											</p>
+										</dd>
+										<dt style="color: #BFA5A3">
+										<i class="icon solid style1 fa-temperature-high"></i>
+										How is climate change impacting viral evolution?</dt>
+										<dd>
+											<p>
+											Virus ecology and evolution is climate dependent and successful epi/pandemic prevention
+											and response requires the incorporation of climate variables into epidemiological models
+											and biostatistical workflows. Free, robust remote sensing data is made available through
+											NASA; however, data accessibility remains a challenge for the epi/biostats community.
+											As a part of the
+											<a target="_blank" rel="noopener noreferrer" href="https://www.nih.gov/climateandhealth">NIH Climate Change and Health Initiative</a>
+											we are building a web portal to help policy makers and public health practitioners
+											utilize this data. In parallel, we are clustering metaviromes based on climate zone
+											classification to determine climate-sensitive trends in viral abundance and evolutionary selection pressures.
+											</p>
+										</dd>
+								</dl>
+							</div>
+						</div>
+					</section>
+
+				<!-- Six -->
+					<section class="wrapper style1">
+						<div class="inner">
+							<h2>Team</h2>
+								<div class="content" style="text-align: justify;">
+
+											<p>
+											<span class="image left"><img src="images/nash.png" alt="" /></span>
+											<b>
+											<span style="color:#BFA5A3;">Principal Investigator</span>
+											</b>
+											Nash Rochman is an Assistant Professor in the CUNY SPH
+											<a target="_blank" rel="noopener noreferrer" href="https://sph.cuny.edu/academics/departments/department-of-epidemiology-and-biostatistics/">Department of Epidemiology and Biostatistics</a>; an
+											<a target="_blank" rel="noopener noreferrer" href="https://cunyisph.org/">Institute for Implementation Science in Population Health</a>
+											Investigator; an NIH Special Volunteer; and an editor at
+											<a target="_blank" rel="noopener noreferrer" href="https://biologydirect.biomedcentral.com/">Biology Direct</a>.
+											Nash was drawn to a career in biology to help distil complex and confusing data into predictive models for disease. He completed his undergraduate education at Bard College of Simon's Rock and Brown University and pursued his PhD advised by Sean Sun in The Johns Hopkins University Cell Biomechanics Lab. Nash went on to pursue a postdoctoral fellowship centered on pandemic viral evolution advised by Eugene Koonin
+											in the NIH Evolutionary Genomics Research Group. Prior to joining CUNY, Nash was a Principal Investigator at the NIH in the Independent
+											Research Scholar Program. Nash splits his time between NYC and DC where he lives with his wife Anita.
+											In many locations, Nash can be found playing jazz trumpet.
+											
+											<a href="mailto: evohgroup@gmail.com" style="color:#BFA5A3" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											<a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?user=lKHvgZsAAAAJ&hl=en" style="color:#BFA5A3" class="icon solid style1 fa-graduation-cap"><span class="label">publications</span></a>
+											<!-- <a href="#" class="icon brands style1 fa-github"><span class="label">Github</span></a> -->
+											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nash-rochman-b35583155/" style="color:#BFA5A3" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
+											</p>
+											
+																						<p>
+											<span class="image right"><img src="images/peter.png" alt="" /></span>
+											<b>
+											<span style="color:#FF5F5F;">Senior Research Associate</span>
+											</b>
+											Peter Vlasov has over 20 years experience in computational biology. He completed his PhD
+											in applied physics and mathematics from Moscow Institute of Physics and Technology. Peter
+											began his scientific career in the area of structural bioinformatics at the Institute of Molecular Biology (Russia).
+											After spending several years applying these techniques in the private sector for the drug-design company Algodign LLC,
+											Peter returned to publicly funded research within the Center for Genomic Regulation (Spain) and the Institute of Science and Technology (Austria).
+											Peter's current research focuses on the development of computational methods in evolutionary and systems biology.
+											In addition to his research, Peter has made advances in computational biology through his contributions
+											to educational initiatives for both university students and children designed to expand and
+											diversify the biomedical workforce. Peter currently resides in Barcelona with his family
+											where he can be found lifting heavy things before heading out to a gallery opening.
+											
+											<a href="mailto: pkvlasov@gmail.com" style="color:#FF5F5F" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											<a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?user=4_FKchoAAAAJ&hl=en&oi=sra" style="color:#FF5F5F" class="icon solid style1 fa-graduation-cap"><span class="label">publications</span></a>
+											<!-- <a href="#" class="icon brands style1 fa-github"><span class="label">Github</span></a> -->
+											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/vlasov-peter/" style="color:#FF5F5F" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
+											</p>
+
+											<p>
+											<span class="image left"><img src="images/dmitry.png" alt="" /></span>
+											<b>
+											<span style="color:#574240;">Predoctoral Scholar</span>
+											</b>
+											Dmitry Biba's primary interests are evolutionary genomics and population genetics, with a specific focus
+											on microbial phylodynamics and molecular evolution. Dmitry is a visiting fellow at the NIH in the
+											Evolutionary Genomics Research Group (Koonin). His current work centers on exploring bacterial defense
+											strategies against a broad range of adverse entities. Dmitry completed his undergraduate education in the
+											Department of Evolutionary Biology at Moscow State University and went on to pursue his Master's degree at
+											Skolkovo Institute of Science and Technology advised by Georgii Bazykin in the Evolutionary Genomics Lab.
+											Dmitry and his wife Vasilisa both split their time between NYC and DC where they can be found
+											organizing board games.
+											
+											<a href="mailto: dmitriy.biba@gmail.com" style="color:#574240" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											<a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/scientific-contributions/Dmitry-Biba-2187322359" style="color:#574240" class="icon solid style1 fa-graduation-cap"><span class="label">publications</span></a>
+											<!-- <a href="#" class="icon brands style1 fa-github"><span class="label">Github</span></a> -->
+											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/dmitry-biba-4bb84324b/" style="color:#574240" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
+											</p>
+											
+											<p>
+											<span class="image right"><img src="images/sheetal.png" alt="" /></span>
+											<b>
+											<span style="color:#79A314;">MPH Scholar</span>
+											</b>
+											Sheetal Chowdhary is a practicing physician additionally engaged in both medical research and undergraduate teaching.
+											Her prior work has involved diverse public health efforts ranging from infectious disease surveilance
+											to opioid overdose safety management. Sheetal's current research interests are focused on the incorporation
+											of modern data analytics methods leveraging artificial intelligence into clinical workflows.
+											
+											<a href="mailto: sheetalchowdhary@gmail.com" style="color:#79A314" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											<!-- <a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?user=lKHvgZsAAAAJ&hl=en" style="color:#574240" class="icon solid style1 fa-graduation-cap"><span class="label">publications</span></a> -->
+											<!-- <a href="#" class="icon brands style1 fa-github"><span class="label">Github</span></a> -->
+											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/sheetal-chowdhary-d-o-4035051a/" style="color:#79A314" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
+											</p>
+											
+											<p>
+											<span class="image left"><img src="images/ben.png" alt="" /></span>
+											<b>
+											<span style="color:#BFA5A3;">MPH Scholar</span>
+											</b>
+											
+											Ben Jagt completed his pre-med undergraduate studies at the University of Minnesota. Seeking to shift his focus
+											from improving clinical outcomes to population health, after graduation Ben hopes to find new ways to
+											use "big data" to reduce health disparities. His current research focuses on increasing accessibility
+											for underutilized public data. Ben lives in NYC with his wife where he can be found
+											playing ultimate frisbee (he's a pro!) in the American Ultimate Disc League.
+											
+											<a href="mailto: bd.jagt@gmail.com" style="color:#BFA5A3" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											<!-- <a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?user=lKHvgZsAAAAJ&hl=en" style="color:#574240" class="icon solid style1 fa-graduation-cap"><span class="label">publications</span></a> -->
+											<!-- <a href="#" class="icon brands style1 fa-github"><span class="label">Github</span></a> -->
+											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/benjamin-jagt/" style="color:#BFA5A3" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
+											</p>
+											
+											<p>
+											<span class="image right"><img src="images/lori.png" alt="" /></span>
+											<b>
+											<span style="color:#FF5F5F;">MPH Scholar</span>
+											</b>
+											
+											Lori Winter completed her undergraduate degree in Molecular and Cellular Biology at San Diego State University. She hopes to
+											use genomic inference to improve public health outcomes. Lori’s current research focuses on understanding the role
+											of horizontal gene transfer in gut microbiome stability. Lori lives in North Carolina with her fiancé and their Labrador Rocky
+											(all Star Wars fans) where she can be found crocheting.
+											
+											<a href="mailto: lori.winter@skybeam.com" style="color:#FF5F5F" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											<!-- <a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?user=lKHvgZsAAAAJ&hl=en" style="color:#574240" class="icon solid style1 fa-graduation-cap"><span class="label">publications</span></a> -->
+											<!-- <a href="#" class="icon brands style1 fa-github"><span class="label">Github</span></a> -->
+											<!-- <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/benjamin-jagt/" style="color:#FF5F5F" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a> -->
+											</p>
+								</div>
+						</div>
+					</section>
+
+				<!-- Seven -->
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<header>
+								<h2>Let's Meet!</h2>
+							</header>
+							<p style="text-align: justify;">
+								We are always eager to discuss possibilities for collaboration. If you are interested in joining the group,
+								please do not hesitate to
+								<a target="_blank" rel="noopener noreferrer" href="mailto: evohgroup@gmail.com">email Nash</a>.
+								Opportunities for candidates at all career stages from high school students
+								to senior research associates may be available. Positions are fully remote, or hybrid based in NYC or DC.
+							</p>
+						</div>
+					</section>
+
+				<!-- Footer -->
+					<footer class="wrapper style1 align-center">
+						<div class="inner">
+							<!-- <ul class="icons"> -->
+								<!-- <li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li> -->
+								<!-- <li><a href="#" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li> -->
+								<!-- <li><a href="#" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li> -->
+								<!-- <li><a href="#" class="icon brands style2 fa-linkedin-in"><span class="label">LinkedIn</span></a></li> -->
+								<!-- <li><a href="#" class="icon style2 fa-envelope"><span class="label">Email</span></a></li> -->
+							<!-- </ul> -->
+							<p>&copy; Evolutionary Health Group. Select art by
+								<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/ellie-rochman-83aa5211b/">Ellie Rochman</a>.
+								Web template by <a target="_blank" rel="noopener noreferrer" href="https://html5up.net/uploads/demos/story/">HTML5 UP</a>.
+								Other design elements by <a target="_blank" rel="noopener noreferrer" href="https://mycolor.space/">ColorSpace</a>
+								and <a target="_blank" rel="noopener noreferrer" href="https://www.autotracer.org/">Autotracer</a>.
+								<br>
+								
+								Powered by <a target="_blank" rel="noopener noreferrer" href="https://jekyllrb.com/">Jekyll</a> and <a target="_blank" rel="noopener noreferrer" href="https://pages.github.com/">GitHub Pages</a>.
+								Page last updated 01/21/2024.
+							</p>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
