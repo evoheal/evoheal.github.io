@@ -281,37 +281,40 @@
 											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/ejcurcio/" style="color:#574240" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
 											</p>
 											<p>
-											<span class="image right"><img src="images/ben_jagt.png" alt="" /></span>
+											<span class="image right"><img src="images/dmitry_biba.png" alt="" /></span>
 											<b>
-											<span style="color:#79A314;">Research Associate</span>
+											<span style="color:#79A314;">Predoctoral Scholar</span>
+											</b>
+											Dmitry Biba's primary interests are evolutionary genomics and population genetics, with a specific focus on microbial phylodynamics and molecular evolution. Dmitry is a visiting fellow at the NIH in the Evolutionary Genomics Research Group (Koonin). His current work centers on exploring bacterial defense strategies against a broad range of adverse entities. Dmitry completed his undergraduate education in the Department of Evolutionary Biology at Moscow State University and went on to pursue his Master's degree at Skolkovo Institute of Science and Technology advised by Georgii Bazykin in the Evolutionary Genomics Lab. Dmitry and his wife Vasilisa both split their time between NYC and DC where they can be found organizing board games.
+											<a href="mailto: dmitriy.biba@gmail.com" style="color:#79A314" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											<a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/scientific-contributions/Dmitry-Biba-2187322359" style="color:#79A314" class="icon solid style1 fa-graduation-cap"><span class="label">publications</span></a>
+											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/dmitry-biba-4bb84324b/" style="color:#79A314" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
+											</p>
+											<p>
+											<span class="image left"><img src="images/ben_jagt.png" alt="" /></span>
+											<b>
+											<span style="color:#BFA5A3;">Research Associate</span>
 											</b>
 											Ben Jagt completed his pre-med undergraduate studies at the University of Minnesota. Seeking to shift his focus from improving clinical outcomes to population health, after graduation Ben hopes to find new ways to use "big data" to reduce health disparities. His current research focuses on increasing accessibility for underutilized public data. Ben lives in NYC with his wife where he can be found playing ultimate frisbee (he's a pro!) in the American Ultimate Disc League.
-											<a href="mailto: bd.jagt@gmail.com" style="color:#79A314" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
-											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/benjamin-jagt/" style="color:#79A314" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
+											<a href="mailto: bd.jagt@gmail.com" style="color:#BFA5A3" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/benjamin-jagt/" style="color:#BFA5A3" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
+											</p>
+											<p>
+											<span class="image right"><img src="images/kai_xu.png" alt="" /></span>
+											<b>
+											<span style="color:#FF5F5F;">Predoctoral Scholar</span>
+											</b>
+											Kai Xu completed his undergraduate degree in Computer Science and Applied Mathematics at Yale University. He will be a PhD student in Computer Science at New York University starting in Fall 2024. His past work involved developing a climate classification system that better aligns with biome boundaries. Kai's current interests include developing actionable insights from geospatial data and creating intelligent systems to aid human creativity and scientific discovery.
+											<a href="mailto: kai.xu@yale.edu" style="color:#FF5F5F" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/kyx/" style="color:#FF5F5F" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
 											</p>
 											<p>
 											<span class="image left"><img src="images/vinaya_shinde.png" alt="" /></span>
 											<b>
-											<span style="color:#BFA5A3;">Predoctoral Scholar</span>
+											<span style="color:#574240;">Predoctoral Scholar</span>
 											</b>
 											Vinaya Shinde is passionate about computational cancer and virology research. She is currently working on the development of a Python package harmonizing tools for the analysis of evolutionary data. Vinaya completed her undergraduate studies at Shivaji University and went on to pursue a Master's degree from Chandigarh University in India. For her Master's thesis, she conducted research in computational virology at CSIR IMTECH, India. Vinaya divides her time between Mumbai and Chandigarh, India.
-											<a href="mailto: shindevinaya0000@gmail.com" style="color:#BFA5A3" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
-											</p>
-											<p>
-											<span class="image right"><img src="images/delaney_collins.png" alt="" /></span>
-											<b>
-											<span style="color:#FF5F5F;">MPH Scholar</span>
-											</b>
-											Delaney Collins completed her undergraduate studies in Cell and Molecular Biology at the University of Utah. Graduating during the COVID-19 pandemic; her work in oncology; and volunteering in a children's hospital all played important roles in shaping her interest in public health. Her research interests lie in finding ways to use molecular data to solve large-scale public health problems. Outside of work and school, Delaney enjoys reading, baking, and hiking all over the diverse Utah terrain.
-											<a href="mailto: collins.delaneychristine@gmail.com" style="color:#FF5F5F" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
-											</p>
-											<p>
-											<span class="image left"><img src="images/emily_he.png" alt="" /></span>
-											<b>
-											<span style="color:#574240;">MPH Scholar</span>
-											</b>
-											Emily He completed her undergraduate degree in Kinesiology at Cal Poly Pomona. She was drawn to a career in public health to use 21st century data to address health disparities. Her current research interests focus on the integration of novel computational techniques to streamline clinical workflows. Emily lives in Los Angeles where she can be found lifting heavy things at the gym and soaking up the sun.
-											<a href="mailto: EMILY.HE17@sphmail.cuny.edu" style="color:#574240" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											<a href="mailto: shindevinaya0000@gmail.com" style="color:#574240" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
 											</p>
 											<a target="_blank" rel="noopener noreferrer" href="/previous_members" title="Previous Members">Previous Members</a>								</div>
 						</div>
