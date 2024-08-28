@@ -281,54 +281,37 @@
 											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/ejcurcio/" style="color:#574240" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
 											</p>
 											<p>
-											<span class="image right"><img src="images/eslam_abousamra.png" alt="" /></span>
+											<span class="image right"><img src="images/ben_jagt.png" alt="" /></span>
 											<b>
-											<span style="color:#79A314;">Doctoral Scholar</span>
-											</b>
-											Eslam Abousamra completed his undergraduate degree in molecular biology and applied statistics at Connecticut College. He went on to pursue his MPH in Epidemiology at the University of Washington advised by Prof. Trevor Bedford centered on infectious disease forecasting, surveillance, and the complex dynamics of respiratory viral interference. His current research focuses on applying machine learning methods to improve public health surveillance and intervention, in particular, with respect to antibiotic resistance. Originally from Alexandria, Egypt, Eslam lives in NYC.
-											<a href="mailto: egamal305@gmail.com" style="color:#79A314" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
-											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/eslam-abousamra/" style="color:#79A314" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
-											</p>
-											<p>
-											<span class="image left"><img src="images/ben_jagt.png" alt="" /></span>
-											<b>
-											<span style="color:#BFA5A3;">Research Associate</span>
+											<span style="color:#79A314;">Research Associate</span>
 											</b>
 											Ben Jagt completed his pre-med undergraduate studies at the University of Minnesota. Seeking to shift his focus from improving clinical outcomes to population health, after graduation Ben hopes to find new ways to use "big data" to reduce health disparities. His current research focuses on increasing accessibility for underutilized public data. Ben lives in NYC with his wife where he can be found playing ultimate frisbee (he's a pro!) in the American Ultimate Disc League.
-											<a href="mailto: bd.jagt@gmail.com" style="color:#BFA5A3" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
-											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/benjamin-jagt/" style="color:#BFA5A3" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
+											<a href="mailto: bd.jagt@gmail.com" style="color:#79A314" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/benjamin-jagt/" style="color:#79A314" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
 											</p>
 											<p>
-											<span class="image right"><img src="images/vinaya_shinde.png" alt="" /></span>
+											<span class="image left"><img src="images/vinaya_shinde.png" alt="" /></span>
 											<b>
-											<span style="color:#FF5F5F;">Predoctoral Scholar</span>
+											<span style="color:#BFA5A3;">Predoctoral Scholar</span>
 											</b>
 											Vinaya Shinde is passionate about computational cancer and virology research. She is currently working on the development of a Python package harmonizing tools for the analysis of evolutionary data. Vinaya completed her undergraduate studies at Shivaji University and went on to pursue a Master's degree from Chandigarh University in India. For her Master's thesis, she conducted research in computational virology at CSIR IMTECH, India. Vinaya divides her time between Mumbai and Chandigarh, India.
-											<a href="mailto: shindevinaya0000@gmail.com" style="color:#FF5F5F" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											<a href="mailto: shindevinaya0000@gmail.com" style="color:#BFA5A3" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
 											</p>
 											<p>
-											<span class="image left"><img src="images/delaney_collins.png" alt="" /></span>
+											<span class="image right"><img src="images/delaney_collins.png" alt="" /></span>
+											<b>
+											<span style="color:#FF5F5F;">MPH Scholar</span>
+											</b>
+											Delaney Collins completed her undergraduate studies in Cell and Molecular Biology at the University of Utah. Graduating during the COVID-19 pandemic; her work in oncology; and volunteering in a children's hospital all played important roles in shaping her interest in public health. Her research interests lie in finding ways to use molecular data to solve large-scale public health problems. Outside of work and school, Delaney enjoys reading, baking, and hiking all over the diverse Utah terrain.
+											<a href="mailto: collins.delaneychristine@gmail.com" style="color:#FF5F5F" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											</p>
+											<p>
+											<span class="image left"><img src="images/emily_he.png" alt="" /></span>
 											<b>
 											<span style="color:#574240;">MPH Scholar</span>
 											</b>
-											Delaney Collins completed her undergraduate studies in Cell and Molecular Biology at the University of Utah. Graduating during the COVID-19 pandemic; her work in oncology; and volunteering in a children's hospital all played important roles in shaping her interest in public health. Her research interests lie in finding ways to use molecular data to solve large-scale public health problems. Outside of work and school, Delaney enjoys reading, baking, and hiking all over the diverse Utah terrain.
-											<a href="mailto: collins.delaneychristine@gmail.com" style="color:#574240" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
-											</p>
-											<p>
-											<span class="image right"><img src="images/emily_he.png" alt="" /></span>
-											<b>
-											<span style="color:#79A314;">MPH Scholar</span>
-											</b>
 											Emily He completed her undergraduate degree in Kinesiology at Cal Poly Pomona. She was drawn to a career in public health to use 21st century data to address health disparities. Her current research interests focus on the integration of novel computational techniques to streamline clinical workflows. Emily lives in Los Angeles where she can be found lifting heavy things at the gym and soaking up the sun.
-											<a href="mailto: EMILY.HE17@sphmail.cuny.edu" style="color:#79A314" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
-											</p>
-											<p>
-											<span class="image left"><img src="images/rawda_alaswad.png" alt="" /></span>
-											<b>
-											<span style="color:#BFA5A3;">MPH Scholar</span>
-											</b>
-											Rawda Alaswad completed her B.S. in Health Science at Sacramento State. Her time as an RA investigating the molecular mechanisms connecting social behavior and health outcomes in Drosophila has guided her to a career in Public Health. Her current research focuses on establishing quantitative guidelines for scientific consensus by exploring the graphical structure of the citation space. She enjoys reading, exploring the redwoods and coffee shops of Northern California, and traveling.
-											<a href="mailto: alaswadrawda@gmail.com" style="color:#BFA5A3" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											<a href="mailto: EMILY.HE17@sphmail.cuny.edu" style="color:#574240" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
 											</p>
 											<a target="_blank" rel="noopener noreferrer" href="/previous_members" title="Previous Members">Previous Members</a>								</div>
 						</div>
