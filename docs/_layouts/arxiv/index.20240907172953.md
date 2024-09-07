@@ -205,7 +205,7 @@
 											We are exploring the incorporation of these tools into the research pipeline at 3 levels.
 											First, for researchers, how can we responsibly use algorithmic summarization to improve
 											our literature reviews, reducing the time spent searching for relevant work and broadening
-											the scope of what we can read in detail? Second, for students, how do we establish quantitative
+											the scope of what we can review in detail? Second, for students, how do we establish quantitative
 											guidelines for scientific consensus to narrow the gap between our textbooks and peer-reviewed
 											publications? Third, for the general public, how can we quantitatively evaluate biases
 											in the answers these tools provide for clinical queries?

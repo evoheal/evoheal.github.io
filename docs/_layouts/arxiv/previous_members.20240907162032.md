@@ -27,36 +27,35 @@
 											<p>
 											<span class="image left"><img src="images/previous_members/dmitry_biba.png" alt="" /></span>
 											<b>
-											<span style="color:#BFA5A3;">Predoctoral Scholar | September 2022 - September 2024</span>
+											<span style="color:#BFA5A3;">Predoctoral Scholar|September 2022 - September 2024</span>
 											</b>
-											While in the group, Dmitry Biba's research focused on understanding prokaryote defense strategies through mathematical modelling and comparative genomics. You can read about it here: <a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/abs/10.1073/pnas.2400008121" style="color:#BFA5A3" class="icon solid style1 fa-book-open"><span class="label">publications</span></a>
-
+											While in the group, Dmitry Biba's research focused on understanding prokaryote defense strategies through mathematical modelling and comparative genomics.
 											</p>
 											<p>
 											<span class="image right"><img src="images/previous_members/kai_xu.png" alt="" /></span>
 											<b>
-											<span style="color:#FF5F5F;">Predoctoral Scholar | June 2024 - September 2024</span>
+											<span style="color:#FF5F5F;">Predoctoral Scholar|June 2024 - September 2024</span>
 											</b>
 											While in the group, Kai Xu's research focused on predicting the impacts of climate change on arthropod vector range using applied machine learning methods.
 											</p>
 											<p>
 											<span class="image left"><img src="images/previous_members/lori_winter.png" alt="" /></span>
 											<b>
-											<span style="color:#574240;">Fellow | January 2024 - May 2024</span>
+											<span style="color:#574240;">Fellow|January 2024 - May 2024</span>
 											</b>
 											While in the group, Lori Winter's research focused on understanding the role of horizontal gene transfer in gut microbiome stability.
 											</p>
 											<p>
 											<span class="image right"><img src="images/previous_members/sheetal_chowdhary.png" alt="" /></span>
 											<b>
-											<span style="color:#79A314;">MPH Scholar | September 2023 - May 2024</span>
+											<span style="color:#79A314;">MPH Scholar|September 2023 - May 2024</span>
 											</b>
 											While in the group, Sheetal Chowdhary's research focused on the incorporation of modern data analytics methods leveraging artificial intelligence into clinical workflows.
 											</p>
 											<p>
 											<span class="image left"><img src="images/previous_members/esther_osafo.png" alt="" /></span>
 											<b>
-											<span style="color:#BFA5A3;">Fellow | September 2023 - January 2024</span>
+											<span style="color:#BFA5A3;">Fellow|September 2023 - January 2024</span>
 											</b>
 											While in the group, Esther Osafo's research focused on building a comprehensive atlas of nonhuman cancer case reports.
 											</p>

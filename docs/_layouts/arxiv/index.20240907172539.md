@@ -1,4 +1,5 @@
-<!DOCTYPE HTML>
+Clinical queries are of particular interest as effective generative responses may
+									<!DOCTYPE HTML>
 <!--
 	Story by HTML5 UP
 	html5up.net | @ajlkn
@@ -197,7 +198,7 @@
 										</dd>
 										<dt style="color: #79A314">
 										<i class="icon solid style1 fa-comment-medical"></i>
-										How can we leverage generative text algorithms to improve public health communication?</dt>
+										How can we leverage generative text algorithms to improve public health communication? </dt>
 										<dd>
 											<p>
 											Generative text algorithms trained using much of the internet provide a mechanism
@@ -205,7 +206,7 @@
 											We are exploring the incorporation of these tools into the research pipeline at 3 levels.
 											First, for researchers, how can we responsibly use algorithmic summarization to improve
 											our literature reviews, reducing the time spent searching for relevant work and broadening
-											the scope of what we can read in detail? Second, for students, how do we establish quantitative
+											the scope of what we can review in detail? Second, for students, how do we establish quantitative
 											guidelines for scientific consensus to narrow the gap between our textbooks and peer-reviewed
 											publications? Third, for the general public, how can we quantitatively evaluate biases
 											in the answers these tools provide for clinical queries?

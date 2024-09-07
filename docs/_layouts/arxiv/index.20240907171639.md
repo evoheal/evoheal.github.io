@@ -197,18 +197,19 @@
 										</dd>
 										<dt style="color: #79A314">
 										<i class="icon solid style1 fa-comment-medical"></i>
-										How can we leverage generative text algorithms to improve public health communication?</dt>
+										How do generative text responses differ from expert answers to clinical queries?</dt>
 										<dd>
 											<p>
 											Generative text algorithms trained using much of the internet provide a mechanism
 											to access technical information that can reduce the barrier to entry for non-experts.
-											We are exploring the incorporation of these tools into the research pipeline at 3 levels.
-											First, for researchers, how can we responsibly use algorithmic summarization to improve
-											our literature reviews, reducing the time spent searching for relevant work and broadening
-											the scope of what we can read in detail? Second, for students, how do we establish quantitative
-											guidelines for scientific consensus to narrow the gap between our textbooks and peer-reviewed
-											publications? Third, for the general public, how can we quantitatively evaluate biases
-											in the answers these tools provide for clinical queries?
+											Clinical queries are of particular interest as effective generative responses may
+											improve access to healthcare and reduce health disparities but ineffective responses
+											may promote confusion and mistrust in the healthcare system. We are collecting an
+											ensemble of questions and answers from the CDC and the NIH and posing these questions
+											as prompts to popular generative text programs. Conserved differences in the structure
+											of these answers will reveal limitations in generative text algorithms which may motivate
+											new safeguards. Conversely, the generative responses may demonstrate useful features
+											which may be incorporated into public health messaging.
 											</p>
 										</dd>
 										<dt style="color: #BFA5A3">
@@ -328,15 +329,6 @@
 											</b>
 											Rawda Alaswad completed her B.S. in Health Science at Sacramento State. Her time as an RA investigating the molecular mechanisms connecting social behavior and health outcomes in Drosophila has guided her to a career in Public Health. Her current research focuses on establishing quantitative guidelines for scientific consensus by exploring the graphical structure of the citation space. She enjoys reading, exploring the redwoods and coffee shops of Northern California, and traveling.
 											<a href="mailto: alaswadrawda@gmail.com" style="color:#BFA5A3" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
-											</p>
-											<p>
-											<span class="image right"><img src="images/abdoul_rahamane_bako_bagassa.png" alt="" /></span>
-											<b>
-											<span style="color:#FF5F5F;">MPH Scholar</span>
-											</b>
-											Abdoul-Rahamane Bako Bagassa earned his doctorate degree in general medicine from Abdou Moumouni University in Niger and spent the following four years practicing medicine. Driven by a desire to impact population health more broadly, Abdoul transitioned from clinical practice to public health. His research interests are centered on antibiotic resistance, particularly understanding how antibiotic exposure affects the dynamics of gene transfer in the human gut microbiome. Abdoul lives in NYC, where he enjoys walking on the beach, especially in the summer, finding it a perfect way to unwind and connect with nature.
-											<a href="mailto: abdoulrahamane.bakobagassa43@sphmail.cuny.edu" style="color:#FF5F5F" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
-											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/abdoul-rahamane-bako-bagassa-01b2b5178/" style="color:#FF5F5F" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
 											</p>
 											<a target="_blank" rel="noopener noreferrer" href="/previous_members" title="Previous Members">Previous Members</a>								</div>
 						</div>

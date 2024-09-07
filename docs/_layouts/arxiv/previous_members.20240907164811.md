@@ -29,7 +29,7 @@
 											<b>
 											<span style="color:#BFA5A3;">Predoctoral Scholar | September 2022 - September 2024</span>
 											</b>
-											While in the group, Dmitry Biba's research focused on understanding prokaryote defense strategies through mathematical modelling and comparative genomics. You can read about it here: <a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/abs/10.1073/pnas.2400008121" style="color:#BFA5A3" class="icon solid style1 fa-book-open"><span class="label">publications</span></a>
+											While in the group, Dmitry Biba's research focused on understanding prokaryote defense strategies through mathematical modelling and comparative genomics. You can read about it here: <a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/abs/10.1073/pnas.2400008121" style="color:#BFA5A3" class="icon solid style1 fa-newspaper"><span class="label">publications</span></a>
 
 											</p>
 											<p>
