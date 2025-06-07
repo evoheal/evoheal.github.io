@@ -43,7 +43,9 @@
 											<b>
 											<span style="color:#574240;">Postdoctoral Scholar | February 2024 - June 2025</span>
 											</b>
-											While in the group, Evan Curcio's research focused on the impacts of climate change on virus ecology and evolution.
+											While in the group, Evan Curcio's research focused on the impacts of climate change on virus ecology and evolution. You can read about it here: <a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/abs/10.1073/pnas.2400008121" style="color:#574240" class="icon solid style1 fa-book-open"><span class="label">publications</span></a>
+<a target="_blank" rel="noopener noreferrer" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11722316/" style="color:#574240" class="icon solid style1 fa-book-open"><span class="label">publications</span></a>
+
 											</p>
 											<p>
 											<span class="image right"><img src="images/previous_members/emily_he.png" alt="" /></span>
@@ -71,9 +73,7 @@
 											<b>
 											<span style="color:#574240;">Predoctoral Scholar | September 2022 - September 2024</span>
 											</b>
-											While in the group, Dmitry Biba's research focused on understanding prokaryote defense strategies through mathematical modelling and comparative genomics. You can read about it here: <a target="_blank" rel="noopener noreferrer" href="https://www.pnas.org/doi/abs/10.1073/pnas.2400008121" style="color:#574240" class="icon solid style1 fa-book-open"><span class="label">publications</span></a>
-<a target="_blank" rel="noopener noreferrer" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11722316/" style="color:#574240" class="icon solid style1 fa-book-open"><span class="label">publications</span></a>
-
+											While in the group, Dmitry Biba's research focused on understanding prokaryote defense strategies through mathematical modelling and comparative genomics.
 											</p>
 											<p>
 											<span class="image right"><img src="images/previous_members/kai_xu.png" alt="" /></span>

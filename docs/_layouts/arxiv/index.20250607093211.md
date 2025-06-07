@@ -270,12 +270,14 @@
 											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/vlasov-peter/" style="color:#FF5F5F" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
 											</p>
 											<p>
-											<span class="image left"><img src="images/delaney_collins.png" alt="" /></span>
+											<span class="image left"><img src="images/evan_curcio.png" alt="" /></span>
 											<b>
-											<span style="color:#574240;">MPH Scholar</span>
+											<span style="color:#574240;">Postdoctoral Scholar</span>
 											</b>
-											Delaney Collins completed her undergraduate studies in Cell and Molecular Biology at the University of Utah. Graduating during the COVID-19 pandemic; her work in oncology; and volunteering in a children's hospital all played important roles in shaping her interest in public health. Her research interests lie in finding ways to use molecular data to solve large-scale public health problems. Outside of work and school, Delaney enjoys reading, baking, and hiking all over the diverse Utah terrain.
-											<a href="mailto: collins.delaneychristine@gmail.com" style="color:#574240" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											Evan J Curcio is interested in using mathematical, physical, and statistical modeling to understand and predict biological behavior. His current research involves constructing a mathematical framework to harmonize predictive climate parameters with epidemiological models for vector-borne virus transmission. Evan received his PhD in Biomathematics from North Carolina State University, advised by Prof. Sharon R Lubkin; his dissertation discussed modeling of stomach morphogenesis and the biomechanics of packing patterns in notochords. Previously, he obtained an MA in Statistics and Applied Mathematics from CUNY Hunter College, and a BA in Mathematics from the University of Washington. Returning to CUNY for his postdoc, Evan is also currently an NIH Special Volunteer. Evan has industry experience in data analysis and reporting, revenue management, forecasting, and operations analysis at JetBlue Airways and Disney Streaming. He is currently lost in Brooklyn.
+											<a href="mailto: evan.curcio@gmail.com" style="color:#574240" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											<a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?user=TnvnGwsAAAAJ&hl=en&oi=ao" style="color:#574240" class="icon solid style1 fa-graduation-cap"><span class="label">publications</span></a>
+											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/ejcurcio/" style="color:#574240" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
 											</p>
 											<p>
 											<span class="image right"><img src="images/eslam_abousamra.png" alt="" /></span>
@@ -287,56 +289,54 @@
 											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/eslam-abousamra/" style="color:#79A314" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
 											</p>
 											<p>
-											<span class="image left"><img src="images/bridget_dela_akasreku.png" alt="" /></span>
+											<span class="image left"><img src="images/ben_jagt.png" alt="" /></span>
 											<b>
-											<span style="color:#BFA5A3;">Doctoral Scholar</span>
+											<span style="color:#BFA5A3;">Research Associate</span>
 											</b>
-											Bridget Dela Akasreku comes to public health with over seven years of clinical experience as a physician assistant in Ghana. Her current work focuses on HIV epidemic forecasting to evaluate the impact of public health interventions among marginalized populations in Kenya and beyond. Bridget is committed to applying these computational techniques to drive evidenced-based policy decisions. Beyond research, she teaches MPH courses in policy and intervention design. Bridget splits her time between New York and New Jersey.
-											<a href="mailto: Bridget.Akasreku@sph.cuny.edu" style="color:#BFA5A3" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
-											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/bridget-dela-akasreku/" style="color:#BFA5A3" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
+											Ben Jagt completed his pre-med undergraduate studies at the University of Minnesota. Seeking to shift his focus from improving clinical outcomes to population health, after graduation Ben hopes to find new ways to use "big data" to reduce health disparities. His current research focuses on increasing accessibility for underutilized public data. Ben lives in NYC with his wife where he can be found playing ultimate frisbee (he's a pro!) in the American Ultimate Disc League.
+											<a href="mailto: bd.jagt@gmail.com" style="color:#BFA5A3" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/benjamin-jagt/" style="color:#BFA5A3" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
 											</p>
 											<p>
-											<span class="image right"><img src="images/abir_bhuiyan.png" alt="" /></span>
+											<span class="image right"><img src="images/vinaya_shinde.png" alt="" /></span>
 											<b>
-											<span style="color:#FF5F5F;">Research Associate</span>
+											<span style="color:#FF5F5F;">Predoctoral Scholar</span>
 											</b>
-											Abir Bhuiyan completed his M.S. in Population Health Informatics at CUNY SPH. His research focuses on measuring the accessibility of LLM responses to common medical queries. Outside of the lab, Abir wears a few different hats, as both a data analyst with the City of New York and manager of a small business.
-											<a href="mailto: abhuiyan2015@gmail.com" style="color:#FF5F5F" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
-											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/abir-bhuiyan/" style="color:#FF5F5F" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
+											Vinaya Shinde is passionate about computational cancer and virology research. She is currently working on the development of a Python package harmonizing tools for the analysis of evolutionary data. Vinaya completed her undergraduate studies at Shivaji University and went on to pursue a Master's degree from Chandigarh University in India. For her Master's thesis, she conducted research in computational virology at CSIR IMTECH, India. Vinaya divides her time between Mumbai and Chandigarh, India.
+											<a href="mailto: shindevinaya0000@gmail.com" style="color:#FF5F5F" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
 											</p>
 											<p>
-											<span class="image left"><img src="images/nicole_perez.png" alt="" /></span>
+											<span class="image left"><img src="images/delaney_collins.png" alt="" /></span>
 											<b>
 											<span style="color:#574240;">MPH Scholar</span>
 											</b>
-											Nicole Perez completed her B.S. in Biochemistry at UC Riverside. Working in a hospital laboratory inspired her to pursue a career in public health. Nicole's research focuses on understanding how LLMs encode associations between demographic characteristics and common health conditions. In her spare time, Nicole enjoys relaxing with her dog and searching for the best matcha latte in SoCal.
-											<a href="mailto: GABRIELLENICOLE.PEREZ79@sphmail.cuny.edu" style="color:#574240" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											Delaney Collins completed her undergraduate studies in Cell and Molecular Biology at the University of Utah. Graduating during the COVID-19 pandemic; her work in oncology; and volunteering in a children's hospital all played important roles in shaping her interest in public health. Her research interests lie in finding ways to use molecular data to solve large-scale public health problems. Outside of work and school, Delaney enjoys reading, baking, and hiking all over the diverse Utah terrain.
+											<a href="mailto: collins.delaneychristine@gmail.com" style="color:#574240" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
 											</p>
 											<p>
-											<span class="image right"><img src="images/ivy_kosater.png" alt="" /></span>
+											<span class="image right"><img src="images/emily_he.png" alt="" /></span>
 											<b>
 											<span style="color:#79A314;">MPH Scholar</span>
 											</b>
-											Ivy Kosater holds a bachelor's degree in biochemistry from Florida State University. After spending the years following her undergraduate education working in the field of bioinformatics, she decided to pursue an MPH in Epidemiology and Biostatistics at CUNY SPH to apply her computational skills towards improving population health outcomes. Her current work focuses on understanding how antibiotic exposure affects the human gut microbiome. Outside of school and research, you can find her biking around Brooklyn or at the cinema.
-											<a href="mailto: IVY.KOSATER49@sphmail.cuny.edu" style="color:#79A314" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											Emily He completed her undergraduate degree in Kinesiology at Cal Poly Pomona. She was drawn to a career in public health to use 21st century data to address health disparities. Her current research interests focus on the integration of novel computational techniques to streamline clinical workflows. Emily lives in Los Angeles where she can be found lifting heavy things at the gym and soaking up the sun.
+											<a href="mailto: EMILY.HE17@sphmail.cuny.edu" style="color:#79A314" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
 											</p>
 											<p>
-											<span class="image left"><img src="images/mebrahtom_zeweli.png" alt="" /></span>
+											<span class="image left"><img src="images/rawda_alaswad.png" alt="" /></span>
 											<b>
 											<span style="color:#BFA5A3;">MPH Scholar</span>
 											</b>
-											Mebrahtom Zeweli completed a B.S. in Health Promotion from Jimma University and an MPH from Addis Ababa University, Ethiopia. His research spans health risk factor epidemiology and health information systems with particular interests in population movement as a risk factor for vector-born disease and public health data quality management, respectively. Mebrahtom has also managed national disease control and elimination initiatives and previously served as a volunteer during the 2014-6 Ebola Virus Disease outbreak in West Africa. His current research focuses on understanding the impact of climate and environmental exposures on chronic disease. Outside the lab, he enjoys hiking and exploring new places.
-											<a href="mailto: mebrahtom2007@gmail.com" style="color:#BFA5A3" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
-											<a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/profile/Mebrahtom-Zeweli" style="color:#BFA5A3" class="icon solid style1 fa-graduation-cap"><span class="label">publications</span></a>
-											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/mebrahtom-zeweli-7486ab198/" style="color:#BFA5A3" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
+											Rawda Alaswad completed her B.S. in Health Science at Sacramento State. Her time as an RA investigating the molecular mechanisms connecting social behavior and health outcomes in Drosophila has guided her to a career in Public Health. Her current research focuses on establishing quantitative guidelines for scientific consensus by exploring the graphical structure of the citation space. She enjoys reading, exploring the redwoods and coffee shops of Northern California, and traveling.
+											<a href="mailto: alaswadrawda@gmail.com" style="color:#BFA5A3" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
 											</p>
 											<p>
-											<span class="image right"><img src="images/safa_amir.png" alt="" /></span>
+											<span class="image right"><img src="images/abdoul_rahamane_bako_bagassa.png" alt="" /></span>
 											<b>
 											<span style="color:#FF5F5F;">MPH Scholar</span>
 											</b>
-											Safa Amir comes to public health with a background in psychology, motivated to bring a behavioral lens to infectious disease modeling. Here current work focuses on examining how diversity in individual daily activities and epidemic awareness impacts the spread of infectious diseases. Safa lives in Dallas, where she enjoys gardening, hiking, and taking long road trips to unwind and explore new places.
-											<a href="mailto: safa.amir@sph.cuny.edu" style="color:#FF5F5F" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											Abdoul-Rahamane Bako Bagassa earned his doctorate degree in general medicine from Abdou Moumouni University in Niger and spent the following four years practicing medicine. Driven by a desire to impact population health more broadly, Abdoul transitioned from clinical practice to public health. His research interests are centered on antibiotic resistance, particularly understanding how antibiotic exposure affects the dynamics of gene transfer in the human gut microbiome. Abdoul lives in NYC, where he enjoys walking on the beach, especially in the summer, finding it a perfect way to unwind and connect with nature.
+											<a href="mailto: abdoulrahamane.bakobagassa43@sphmail.cuny.edu" style="color:#FF5F5F" class="icon solid style1 fa-envelope"><span class="label">email</span></a>
+											<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/abdoul-rahamane-bako-bagassa-01b2b5178/" style="color:#FF5F5F" class="icon brands style1 fa-linkedin"><span class="label">LinkedIn</span></a>
 											</p>
 											<a target="_blank" rel="noopener noreferrer" href="/previous_members" title="Previous Members">Previous Members</a>								</div>
 						</div>
@@ -376,7 +376,7 @@
 								<br>
 								
 								Powered by <a target="_blank" rel="noopener noreferrer" href="https://jekyllrb.com/">Jekyll</a> and <a target="_blank" rel="noopener noreferrer" href="https://pages.github.com/">GitHub Pages</a>.
-								<p>Page last updated: 06/07/2025.
+								<p>Page last updated: 09/07/2024.
 							</p>
 						</div>
 					</footer>
